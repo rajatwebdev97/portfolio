@@ -1,0 +1,106 @@
+@media screen and (max-width:768px ){
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+    .main .left{
+        display: none;
+    }
+    .main .right{
+        width: 100%;
+        /* display: none; */
+    }
+    .right .box1 button{
+        width: 30%;
+        font-size: 1rem;
+        font-weight: 600;
+    }
+   
+    .section1 .box3 {
+        width: 70%;
+
+    }
+    .section1 .box3  h3 {
+        width: 90%;
+        text-align: center;
+    }
+    .section2 .boxx {
+        width: 40%;
+    }
+    .section2 .boxx h5{
+        width: 25%;
+        font-weight: 500;
+    }
+
+    .section2 .boxx h4{
+        font-size: 1.2rem;
+        width: 55%;
+    }
+    .section2 .boxx p{
+        width: 97%;
+        font-size: 1.1rem;
+    }
+    .right .work{
+        width: 100%;
+
+    }
+    .right .work .boox{
+        width: 45%;
+    }
+    .section3 .boxxx{
+        width: 80%;
+        /* display: none; */
+        margin-left: 2.5rem;
+    }
+
+    .section3 .booxxx{
+        display: none;
+    }
+
+    .get .rright p{
+        width: 70%;
+        font-size: 1.2rem;
+    }
+    .get .rright h5{
+        width: 65%;
+        font-size: 1.2rem;
+        line-height: 1.8rem;
+    }
+    .get .rright span{
+        margin-left: 0.5rem;
+        font-size: 1.2rem;
+        width: 50%;
+    }
+    .get .lleft button{
+        width: 40%;
+    }
+    .footer{
+        display: block;
+        width: 100%;
+        padding: 2.5rem ;
+        
+    }
+    .footer .leftt {
+        width: 100%;
+        padding: 0.1rem ;
+    }
+    .footer .leftt h3{
+        text-align: center;
+        width: 100%;
+    }
+    .footer .right {
+        padding: 1rem ;
+        width: 100%;
+
+    }
+    .footer .right p{
+        width: 100%;
+        font-size: 1.2rem ;
+        text-align: center;
+    }
+
+
+    
+
+
+}   

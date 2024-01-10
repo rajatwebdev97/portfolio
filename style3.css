@@ -1,0 +1,175 @@
+@media screen and (max-width:480px){
+    *{
+        margin: 0px ;
+        padding: 0px ;
+    }
+    .main{
+        width: 100%;
+        display: block;
+     
+    }
+    .main .right{
+        width: 95%;
+        border: 2px solid red ;
+        background-size: cover;
+    }
+    h2{
+        width: 100%;
+        font-weight: 700;
+
+        font-size: 2.5rem;
+        /* height: 0px ; */
+    }
+    .main  .right .banner{
+        border: 2px solid red ;
+        /* width: 100%; */
+        background-size: cover;
+    }
+    .right  .banner .container{
+        border: 2px solid red ;
+        /* background-size: cover; */
+    }
+
+    .right .banner .container h3{
+       border: 2px solid violet;
+       width: 100%;
+
+    }
+    .right .banner .container h1{
+        border: 2px solid red ;
+        font-size: 2.1rem ;
+    }
+
+    .section1{
+        width: 100%;
+        text-align: center;
+    }
+    .section1 .box4{
+        display: none;
+    }
+    .section1 .box3 h3{
+        font-size: 2rem;
+    }
+    .section1 .box3 p{
+        font-size: 1.2rem;
+        line-height: 1.6rem;
+    }
+
+    .services .box{
+        width: 90%;
+    }
+    .services .box h3{
+        font-size: 1.4rem;
+        padding: 0.5rem;
+        font-weight: 600;
+    }
+    .services .box p{
+        line-height: 1.5rem;
+        font-size: 1.2rem;
+        width: 80%;
+    }
+   
+    .section2 .boxx{
+        width: 100%;
+    }
+    .section2 .boxx h5{
+        width: 35%;
+        font-size: 1rem;
+        text-align: center;
+    }
+    .section2 .boxx h4{
+        width: 80%;
+        padding: 1rem;
+        font-size: 1.3rem;
+    }
+    .section2 .boxx h6{
+        font-size: 1.1rem;
+        font-weight: 400;
+    }
+    .section2 .boxx p{
+        line-height: 1.5rem;
+        font-size: 1.1rem;
+        width: 93%;
+    }
+
+    .work{
+        width: 100%;
+        background-color: black;
+    }
+
+    .right .work .boox{
+        width: 100%;
+    }
+    .work .boox img{
+        width: 100%;
+    }
+
+    .section3{
+        width: 100%;
+        display: flex;
+    }
+   
+    .section3 .boxxx .lefft{
+        width: 30%;
+    }
+    .section3 .boxxx .rigght {
+        width: 38%;
+        font-size: 2rem ;
+    }
+    .section3 .boxxx p{
+        font-weight: 600;
+        font-size: 1rem;
+    } 
+ 
+    .get .rright{
+        width: 80%;
+        /* line-height: 1rem; */
+    }
+    .get .rright h3{
+        text-align: center;
+        font-weight: 700;
+    }
+    .get .rright p{
+        width: 82%;
+        line-height: 2rem;
+        text-align: center;
+    }
+    .get .rright h4{
+        text-align: center;
+    }
+    .get .lleft{
+        width: 100%;
+        /* text-align: center; */
+    }
+    .get .lleft h3{
+        text-align: center;
+    } 
+
+    .get .lleft form {
+        width: 90%;
+        /* padding: 2rem; */
+    }
+    .get .lleft form input {
+        width: 100%;
+        /* padding: 1rem; */
+    }
+
+    .get .lleft button{
+        width: 60%;
+        margin: 0px ;
+        margin-left: 3.5rem;
+    }
+    .footer {
+        border: 2px solid red ;
+        width: 80%;
+        /* font-size : 2.5rem; */
+        font-weight: 900;
+        /* background-color: black; */
+    }
+
+    .footer h3{
+        border: 2px solid red ;
+        width: 100%;
+        font-size: 1.2rem;
+    }
+}
